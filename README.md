@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pratush21
+- 👋 Hi, I’m @Pratyush21
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning c,python.
 - 💞️ I’m looking to collaborate on projects related with programming.
